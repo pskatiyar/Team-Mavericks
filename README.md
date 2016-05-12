@@ -10,6 +10,8 @@ Yasham Singhal
 
 
 ===============================================
+The main feature of the project is that it only uses Bluetooth as the medium of communication. Right from receiving the data from the Android App and storing the received data into the database, everything is achieved via Bluetooth ony.  
+
 
 The project includes Raspberry Pi as server, SqliteDB on server for records storage. Android application is used by students to register, login, checkin to the classes registered. The attendance system can be viewed locally on the server and also on cloud. The DB on server and EC2 cloud is synchronized every 1 min.
 
